@@ -1,0 +1,11 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "This is a simple nodejs server that returns my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Loveday Ikegbulam",
+  "license": "ISC"
+}
