@@ -12,7 +12,7 @@ No dependencies only core nodejs modules
 
 ### Installing
 
-clone or download the repository and open with any code editor of your choice
+clone or download the repository and open with any code editor of your choice\
 Run the command below to get started
 
 ```
