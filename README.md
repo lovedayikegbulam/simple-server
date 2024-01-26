@@ -12,7 +12,7 @@ No dependencies only core nodejs modules
 
 ### Installing
 
-clone or download the repository and open with any code editor of your choice\
+Clone or download the repository and open with any code editor of your choice\
 Run the command below to get started
 
 ```
@@ -24,7 +24,7 @@ npm i
 * Javascript
 
 ## Contributions
-This is a coursework individual project set up for grading and wouldn't be requiring any contributions
+This is a coursework individual assignment set up for grading and wouldn't be requiring any contributions
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
